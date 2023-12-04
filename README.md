@@ -69,3 +69,9 @@ The following task is advanced and therefore optional.
 <div align="center">
   <img src="images/end prod.PNG" alt="End product" />
 </div>
+
+## Belly Button Biodiversity Dashboard with a moving bug
+<div align="center">
+  <img src="images/moving bug.PNG" alt="End product with moving bug" />
+</div>
+
