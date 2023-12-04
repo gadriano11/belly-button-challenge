@@ -1,0 +1,20 @@
+/* styles.css */
+
+#floatingBacteria {
+    width: 150px;
+    height: 150px;
+    background-image: url('../bacteria.png'); /* Replace with the actual path to your bacteria image */
+    background-size: cover;
+    position: absolute;
+    animation: floatAnimation 5s infinite alternate; /* Customize animation duration and type */
+  }
+  
+  @keyframes floatAnimation {
+    from {
+      transform: translateY(0);
+    }
+    to {
+      transform: translateY(20px); /* Customize the floating distance */
+    }
+  }
+  
